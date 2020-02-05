@@ -37,3 +37,6 @@
 [submodule "giflib"]
 	path = giflib
 	url = https://github.com/nesbox/giflib.git
+[submodule "mruby"]
+	path = mruby
+	url = https://github.com/mruby/mruby.git
